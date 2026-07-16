@@ -761,4 +761,4 @@ Data Engineering and Analytics Portfolio Project
 
 ## Disclaimer
 
-This project uses synthetic data created for educational and portfolio purposes. It is not affiliated with, endorsed by, or based on internal data from P&G or any other company.
+This project uses synthetic data created for educational and portfolio purposes. 
